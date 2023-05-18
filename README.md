@@ -27,8 +27,12 @@ The app is deployed on Netlify.
 
 ## Technologies Used
 
+- HTML: The standard markup language for creating web pages.
+- CSS: The style sheet language used for styling HTML elements.
+- JavaScript: The programming language used to add interactivity and functionality to web pages.
 - React: A JavaScript library for building user interfaces.
 - Bootstrap: A popular CSS framework for creating responsive and mobile-first web applications.
+
 
 ## Usage
 
